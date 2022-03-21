@@ -1,4 +1,4 @@
-### 👋 Addicted to web technologies! 
+## 👋 Addicted to web technologies! 
 
 - 🔭 I’m currently switching jobs
 - 🌱 I’m currently learning Elixir/Phoenix and Kubernetes/Docker
@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I brew my own beer 🍺
 
-# My website 🌐: https://mehdi.necibi.com
+### My website 🌐: https://mehdi.necibi.com
