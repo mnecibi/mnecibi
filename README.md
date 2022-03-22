@@ -1,4 +1,4 @@
-## 👋 Addicted to web technologies! 
+## 👋 Hi! 
 
 - 🌱 I’m currently learning Elixir/Phoenix and Kubernetes/Docker
 - 📫 How to reach me: mehdi.necibi@gmail.com
