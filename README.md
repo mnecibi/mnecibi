@@ -1,6 +1,5 @@
 ## 👋 Addicted to web technologies! 
 
-- 🔭 I’m currently switching jobs
 - 🌱 I’m currently learning Elixir/Phoenix and Kubernetes/Docker
 - 📫 How to reach me: mehdi.necibi@gmail.com
 - 😄 Pronouns: He/Him
